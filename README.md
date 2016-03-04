@@ -150,3 +150,4 @@ by `git status`):
 To add new files (which git doesn't track yet):
 
 	git add file/dir...
+bomber
